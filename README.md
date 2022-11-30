@@ -3,3 +3,4 @@
 # Criando um tabuleiro para jogar xadrez usando java - Professor Dr. Nélio Alves
 
 - Criando a primeira Classe: Posição
+- Começando a implementar Tabuleiro e Peça
