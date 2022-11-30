@@ -5,3 +5,4 @@
 - Criando a primeira Classe: Posição
 - Começando a implementar Tabuleiro e Peça
 - Iniciando a camada do jogo xadrez e exibido o tabuleiro
+- Colocando peças no tabuleiro
