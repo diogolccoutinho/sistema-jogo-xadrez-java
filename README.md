@@ -6,3 +6,4 @@
 - Começando a implementar Tabuleiro e Peça
 - Iniciando a camada do jogo xadrez e exibido o tabuleiro
 - Colocando peças no tabuleiro
+- Tabuleiro Exception e programação defensiva
