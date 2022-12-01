@@ -7,3 +7,4 @@
 - Iniciando a camada do jogo xadrez e exibido o tabuleiro
 - Colocando peças no tabuleiro
 - Tabuleiro Exception e programação defensiva
+- Xadrez Exception e posição na camada xadrez
